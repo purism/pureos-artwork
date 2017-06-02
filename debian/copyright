@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0
 Upstream-Name: PureOS Artwork
 
-Files: ./plymouth/pureos/*
+Files: ./plymouth/*
 Copyright: (c) 2017 Francois <francois@puri.sm>
 License: CC-BY-SA-4
 
