@@ -1,0 +1,21 @@
+#!/bin/sh
+set -e
+
+# Alternatives for grub
+while read background priority; do
+    update-alternatives --install \
+        /usr/share/images/grub/grub.png \
+        grub-theme \
+        /usr/share/images/grub/$background $priority
+done << EOF
+pureos-grub.png 20
+EOF
+
+# GRUB background
+if which update-grub2 > /dev/null ; then
+    sync
+    update-grub2 || true
+fi
+
+#DEBHELPER#
+exit 0

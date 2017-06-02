@@ -1,0 +1,5 @@
+pureos-artwork (1.2.0) UNRELEASED; urgency=medium
+
+  * Initial release as native package.
+
+ -- Matthias Klumpp <matthias.klumpp@puri.sm>  Fri, 02 Jun 2017 21:11:54 +0200

@@ -1,0 +1,37 @@
+Source: pureos-artwork
+Section: misc
+Priority: optional
+Maintainer: Matthias Klumpp <matthias.klumpp@puri.sm>
+Build-Depends: debhelper (>= 9)
+Vcs-Git: https://github.com/purism/pureos-artwork
+Vcs-Browser: https://github.com/purism/pureos-artwork.git
+Standards-Version: 3.9.6
+
+Package: plymouth-theme-pureos
+Architecture: all
+Depends: plymouth,
+         plymouth-themes,
+         ${misc:Depends}
+Provides: plymouth-theme
+Description: Graphical boot animation and logger -  PureOS Theme
+ Plymouth is an application that runs very early in the boot process
+ (even before the root filesystem is mounted!) that provides a graphical
+ boot animation while the boot process happens in the background.
+ .
+ This package contains the default PureOS theme.
+
+Package: grub-theme-pureos
+Architecture: all
+Depends: grub-common,
+         ${misc:Depends}
+Description:Unified Bootloader
+ GRUB is a portable, powerful bootloader.
+ .
+ This package contains the default PureOS theme.
+
+Package: pureos-theme-gnome
+Architecture: all
+Depends: ${misc:Depends}
+Description: PureOS style for the GNOME desktop
+ This package currently contains wallpapers for the
+ PureOS GNOME desktop.

@@ -1,0 +1,32 @@
+#!/bin/sh
+set -e
+
+case "$1" in
+    remove)
+	update-alternatives \
+		--remove default.plymouth /usr/share/plymouth/themes/pureos/pureos.plymouth
+
+	plymouth-set-default-theme -r
+	if which update-initramfs >/dev/null 2>&1
+	then
+	    update-initramfs -u
+	fi
+	;;
+
+    purge)
+	;;
+
+    upgrade|failed-upgrade|disappear)
+	;;
+
+    abort-install|abort-upgrade)
+	;;
+
+    *)
+	echo "$0 called with unknown argument \`$1'" 1>&2
+	exit 1
+	;;
+esac
+
+#DEBHELPER#
+exit 0

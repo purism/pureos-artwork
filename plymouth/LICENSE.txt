@@ -1,0 +1,6 @@
+Plymouth Theme for PureOS (c) by François @ Purism
+
+Plymouth Theme for PureOS is licensed under the
+Creative Commons Attribution-ShareAlike 4.0 Unported License.
+
+See http://creativecommons.org/licenses/by-sa/4.0/.

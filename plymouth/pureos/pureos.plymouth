@@ -1,0 +1,13 @@
+[Plymouth Theme]
+Name=PureOS
+Description=A boot theme for PureOS
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/pureos
+HorizontalAlignment=.5
+VerticalAlignment=.5
+Transition=none
+TransitionDuration=0.0
+BackgroundStartColor=0x202020
+BackgroundEndColor=0x202020

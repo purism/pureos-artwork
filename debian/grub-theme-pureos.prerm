@@ -1,0 +1,13 @@
+#!/bin/sh
+set -e
+
+#DEBHELPER#
+
+if [ "$1" = "remove" ] || [ "$1" = "deconfigure" ]; then
+    # remove grub alternatives
+    for background in \
+          pureos-grub.png \
+          ; do
+        update-alternatives --remove grub-theme /usr/share/images/grub/$background
+    done
+fi
