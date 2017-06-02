@@ -1,7 +1,7 @@
 Source: pureos-artwork
 Section: misc
 Priority: optional
-Maintainer: Matthias Klumpp <matthias.klumpp@puri.sm>
+Maintainer: Pureos Team <all@puri.sm>
 Build-Depends: debhelper (>= 9)
 Vcs-Git: https://github.com/purism/pureos-artwork
 Vcs-Browser: https://github.com/purism/pureos-artwork.git
@@ -27,7 +27,7 @@ Depends: grub-common,
 Description:Unified Bootloader
  GRUB is a portable, powerful bootloader.
  .
- This package contains the default PureOS theme.
+ This package contains a PureOS background image.
 
 Package: pureos-theme-gnome
 Architecture: all
