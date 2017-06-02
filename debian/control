@@ -5,7 +5,7 @@ Maintainer: Pureos Team <all@puri.sm>
 Build-Depends: debhelper (>= 10)
 Vcs-Git: https://github.com/purism/pureos-artwork
 Vcs-Browser: https://github.com/purism/pureos-artwork.git
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 
 Package: plymouth-theme-pureos
 Architecture: all
