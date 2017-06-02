@@ -1,5 +1,6 @@
-pureos-artwork (1.2.0) UNRELEASED; urgency=medium
+pureos-artwork (1.2.0) green; urgency=medium
 
   * Initial release as native package.
+  * Add new PureOS Plymouth theme.
 
  -- Matthias Klumpp <matthias.klumpp@puri.sm>  Fri, 02 Jun 2017 21:11:54 +0200
