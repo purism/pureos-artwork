@@ -1,3 +1,10 @@
+pureos-artwork (1.3) green; urgency=medium
+
+  * Run optipng on all images
+  * Add new wallpapers for PureOS 8
+
+ -- Matthias Klumpp <matthias.klumpp@puri.sm>  Thu, 20 Jul 2017 08:14:58 +0200
+
 pureos-artwork (1.2.0) green; urgency=medium
 
   * Initial release as native package.
