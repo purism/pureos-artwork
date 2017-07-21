@@ -1,9 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
-  <wallpaper>
-    <name>Pureos</name>
+
+  <!-- The default wallpaper -->
+  <wallpaper deleted="false">
+    <name>PureOS</name>
     <filename>/usr/share/backgrounds/pureos/pureos.xml</filename>
     <options>zoom</options>
+  </wallpaper>
+
+  <!-- Other wallpapers in our wallpaper package -->
+
+  <wallpaper deleted="false">
+    <name>Abstract Rectangle</name>
+    <filename>/usr/share/backgrounds/pureos/AbstractRectangle_1920x1080.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Arcturus</name>
+    <filename>/usr/share/backgrounds/pureos/arcturus.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Blackboard</name>
+    <filename>/usr/share/backgrounds/pureos/Blackboard_1920x1080.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Colorful</name>
+    <filename>/usr/share/backgrounds/pureos/Colorful_1920x1080.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Feathers</name>
+    <filename>/usr/share/backgrounds/pureos/feathers.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Field</name>
+    <filename>/usr/share/backgrounds/pureos/Field_1920x1080.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Fog</name>
+    <filename>/usr/share/backgrounds/pureos/Fog_1920x1080.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Jellyfish</name>
+    <filename>/usr/share/backgrounds/pureos/Jellyfish_1920x1080.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Mountains</name>
+    <filename>/usr/share/backgrounds/pureos/mountains.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Snow Mountains</name>
+    <filename>/usr/share/backgrounds/pureos/mountains4.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Ocean</name>
+    <filename>/usr/share/backgrounds/pureos/ocean.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Ocean Rocks</name>
+    <filename>/usr/share/backgrounds/pureos/ocean3.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Prometheus Fire</name>
+    <filename>/usr/share/backgrounds/pureos/prometheus-fire.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Prometheus</name>
+    <filename>/usr/share/backgrounds/pureos/prometheus.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Purist 19</name>
+    <filename>/usr/share/backgrounds/pureos/purist-019-b-1.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Purist 22e</name>
+    <filename>/usr/share/backgrounds/pureos/purist-022-e.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Purist 22k</name>
+    <filename>/usr/share/backgrounds/pureos/purist-022-k.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Purist 22q</name>
+    <filename>/usr/share/backgrounds/pureos/purist-022-q.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Purist 22u</name>
+    <filename>/usr/share/backgrounds/pureos/purist-022-u.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Splash</name>
+    <filename>/usr/share/backgrounds/pureos/Splash_1920x1080.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Tree</name>
+    <filename>/usr/share/backgrounds/pureos/tree.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Tree Leaf</name>
+    <filename>/usr/share/backgrounds/pureos/tree2.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+  <wallpaper deleted="false">
+    <name>Water</name>
+    <filename>/usr/share/backgrounds/pureos/Water_1920x1080.png</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
   </wallpaper>
 </wallpapers>
