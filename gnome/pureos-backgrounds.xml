@@ -20,14 +20,6 @@
   </wallpaper>
 
   <wallpaper deleted="false">
-    <name>Arcturus</name>
-    <filename>/usr/share/backgrounds/pureos/arcturus.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-
-  <wallpaper deleted="false">
     <name>Blackboard</name>
     <filename>/usr/share/backgrounds/pureos/Blackboard_1920x1080.png</filename>
     <options>zoom</options>
@@ -102,62 +94,6 @@
   <wallpaper deleted="false">
     <name>Ocean Rocks</name>
     <filename>/usr/share/backgrounds/pureos/ocean3.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-
-  <wallpaper deleted="false">
-    <name>Prometheus Fire</name>
-    <filename>/usr/share/backgrounds/pureos/prometheus-fire.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-
-  <wallpaper deleted="false">
-    <name>Prometheus</name>
-    <filename>/usr/share/backgrounds/pureos/prometheus.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-
-  <wallpaper deleted="false">
-    <name>Purist 19</name>
-    <filename>/usr/share/backgrounds/pureos/purist-019-b-1.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-
-  <wallpaper deleted="false">
-    <name>Purist 22e</name>
-    <filename>/usr/share/backgrounds/pureos/purist-022-e.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-
-  <wallpaper deleted="false">
-    <name>Purist 22k</name>
-    <filename>/usr/share/backgrounds/pureos/purist-022-k.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-
-  <wallpaper deleted="false">
-    <name>Purist 22q</name>
-    <filename>/usr/share/backgrounds/pureos/purist-022-q.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-
-  <wallpaper deleted="false">
-    <name>Purist 22u</name>
-    <filename>/usr/share/backgrounds/pureos/purist-022-u.png</filename>
     <options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
