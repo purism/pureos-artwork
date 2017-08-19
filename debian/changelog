@@ -1,3 +1,9 @@
+pureos-artwork (1.5) green; urgency=medium
+
+  * Remove wallpapers with Purism branding
+
+ -- Matthias Klumpp <matthias.klumpp@puri.sm>  Sat, 19 Aug 2017 10:58:00 +0200
+
 pureos-artwork (1.4) green; urgency=medium
 
   * Drop some duplicate wallpapers and reduce the
