@@ -12,30 +12,6 @@
   <!-- Other wallpapers in our wallpaper package -->
 
   <wallpaper deleted="false">
-    <name>Abstract Rectangle</name>
-    <filename>/usr/share/backgrounds/pureos/AbstractRectangle_1920x1080.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-
-  <wallpaper deleted="false">
-    <name>Blackboard</name>
-    <filename>/usr/share/backgrounds/pureos/Blackboard_1920x1080.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-
-  <wallpaper deleted="false">
-    <name>Colorful</name>
-    <filename>/usr/share/backgrounds/pureos/Colorful_1920x1080.png</filename>
-    <options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-  </wallpaper>
-
-  <wallpaper deleted="false">
     <name>Feathers</name>
     <filename>/usr/share/backgrounds/pureos/feathers.png</filename>
     <options>zoom</options>
